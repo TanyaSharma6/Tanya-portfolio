@@ -2,7 +2,6 @@ import React from "react";
 import ResponsiveAppBar from "./ResponsiveAppBar";
 import '../App.css';
 import mysql from "../images/mysql.png";
-import springboot from "../images/springboot.png";
 import springmvc from "../images/springmvc.png";
 import gitlab from "../images/gitlab.webp";
 import github from "../images/github.png";
