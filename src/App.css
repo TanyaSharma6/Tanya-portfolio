@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.hr{
+  color:rgb(250, 214, 10); 
+  border: 2px solid ;
+   width:121px;
+}
+
+
+.div2{
+
+ padding:0px 150px 0px 150px;
+}
+
+
+.div2 div>div{
+
+  margin-bottom: 16px;
+
+}
+
+.div2 img{
+ width: 100%;
+ height: 180px;
+ object-fit: contain;
+ margin-top: 36px;
+}
+
+.h2-padding{
+  padding-bottom: 23px;
+}
+
+.container-bg{
+  height:450px; 
+  width:100%;  
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;
+  background-image: url(./images/upcoming-bg.jpg);
+}
+
+h3{
+  font-weight: bolder !important;
+}
+.container-bg2{
+  height:650px; 
+  width:100%;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+  background-image: url(./images/keyboard-bg.webp);
+}
+
+.container-bg>div{
+  padding-left: 200px;
+}
+
+.span-effect{
+  color: darkgoldenrod;
+}
+
+.tech_stack .tech_stack_used .techstack-img{
+  padding: 10px 30px;
+}
+
+.tech_stack .tech_stack_used .techstack-img img{
+    width: 78px;
+    height: 70px;
+}
