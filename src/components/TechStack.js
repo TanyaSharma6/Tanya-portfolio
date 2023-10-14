@@ -38,7 +38,6 @@ function TechStack(){
         <div class="row  responsive ">
         <div class="col-sm-6 div-h">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={js} alt="js"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -49,7 +48,6 @@ function TechStack(){
                          
                     </div>
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -57,7 +55,7 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
+             
                 <img src={html} alt="html" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -69,7 +67,7 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
+            
             </div>
         </div>
 
@@ -79,7 +77,7 @@ function TechStack(){
         
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
+               
                 <img src={css} alt=" css" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -92,7 +90,7 @@ function TechStack(){
 
                     </div>
                 </div>
-            </a>
+            
             </div>
 
         </div>
@@ -101,7 +99,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={java} alt="java" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -114,7 +111,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -122,7 +118,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={mysql} alt="mysql" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -135,7 +130,7 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
+          
             </div>
         </div>
 
@@ -143,7 +138,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={springboot} alt="springboot" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -156,7 +150,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -164,7 +157,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={springmvc} alt="springmvc" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -177,7 +169,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -185,7 +176,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={github} alt="github" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -198,7 +188,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -206,7 +195,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={gitlab} alt="gitlab" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -219,7 +207,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -227,7 +214,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={azure} alt="azure" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -240,7 +226,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -249,7 +234,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={reactjs} alt="reactjs" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -262,7 +246,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -270,7 +253,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={redux} alt="redux" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -283,7 +265,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -291,7 +272,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={jquery} alt="jquery" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -304,7 +284,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -312,7 +291,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={hibernate} alt="hibernate" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -325,7 +303,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -333,7 +310,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={bootstrap} alt="bootstrap" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -346,7 +322,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -354,7 +329,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={jsp} alt="jsp" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -367,7 +341,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -375,7 +348,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={junit} alt="junit" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -388,7 +360,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
@@ -396,7 +367,6 @@ function TechStack(){
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={jwt} alt="jwt" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -409,14 +379,12 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
 
         <div class="col-sm-6">
             <div class="card text-center">
-                <a href="#" class="text-decoration-none text-dark">
                 <img src={sonarqube} alt="sonarqube" height="227px"/>
                 <div class="card-body">
                     <div class="card-text">
@@ -429,7 +397,6 @@ function TechStack(){
 
                     </div> 
                 </div>
-            </a> 
             </div>
         </div>
 
