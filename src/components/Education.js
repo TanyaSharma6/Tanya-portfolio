@@ -2,7 +2,6 @@ import React from 'react';
 import { Steps } from 'antd';
 import ResponsiveAppBar from './ResponsiveAppBar';
 
-const description = 'This is a description.';
 
 const Education = () => (
     <>
